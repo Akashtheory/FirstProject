@@ -44,7 +44,7 @@ html, body{
 
 #main h1{
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 500px;
+    font-size: 350px;
     font-weight: 600;
     font-style: normal;
     color: rgb(255, 76, 76);
@@ -62,24 +62,24 @@ html, body{
     width:160px;
     position: absolute;
     bottom: 20%;
-    left: 8%;
+    left: 9%;
     color: rgb(0, 0, 0);
     
 }
 #bottomleft h3{
-     font-size: 20px;
+     font-size: 16px;
      color: rgb(255, 1, 1);
      
 }
 
 #bottomleft h4{
-    font-size: 20px;
+    font-size: 16px;
     padding-top: 30px;
     color: rgb(255, 0, 0);
 }
 
 #bottomleft p{
-    font-size: 18px;
+    font-size: 15px;
 }
 
 
@@ -87,12 +87,13 @@ html, body{
     width: 100%;
     display: flex;
     justify-content: space-between;
+    
     position: absolute;
 
     bottom: 0;
     left: 0;
     color: rgb(0, 0, 0);
-    padding-left: 200px;
+    padding-left: 170px;
     padding-bottom: 30px;
     margin-top: 800px;
 }
@@ -113,8 +114,8 @@ html, body{
 
 #main>img{
     position:absolute;
-    height: 400px;
-    width: 500px;
+    height: 280px;
+    width: 380px;
     border: 5px solid rgb(203, 161, 241);
     box-shadow: 10px 10px 20px rgb(212, 137, 247);
 }
@@ -122,7 +123,7 @@ html, body{
 
 #First{
     top: 40%;
-    left: 52%;
+    left: 50%;
     border-radius: 15px;
     
 
@@ -131,7 +132,7 @@ html, body{
 
 #Second{
     top: 50%;
-    left: 30%;
+    left: 28%;
     border-radius: 15px;
     
 
@@ -139,8 +140,8 @@ html, body{
 
 
 #Third{
-    top: 45%;
-    left: 74%;
+    top: 50%;
+    left: 72%;
     border-radius: 15px;
     
 
